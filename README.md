@@ -7,3 +7,4 @@ YOUR_USERID_HERE, YOUR_FRIEND_USERID_HERE
 }
 LOCKDOWN_MASTER = YOUR_USERID_HERE
 Btw you dont have to include your friend in authorized USERS you can just. add yourself 
+I am not responsible for any malicious use
