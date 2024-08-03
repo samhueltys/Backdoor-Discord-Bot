@@ -4,7 +4,7 @@ import asyncio
 from pythonping import ping
 import signal
 import sys
-
+#Enter Bot token into the TOKEN variable
 TOKEN = 'YOUR_BOT_TOKEN_HERE'
 CHANNEL_NAME = 'general'
 AUTHORIZED_USERS = {
