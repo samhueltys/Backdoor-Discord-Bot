@@ -4,11 +4,11 @@ import asyncio
 from pythonping import ping
 import signal
 import sys
-#Enter Bot token into the TOKEN variable
+
 TOKEN = 'YOUR_BOT_TOKEN_HERE'
 CHANNEL_NAME = 'general'
 AUTHORIZED_USERS = {
-    YOUR_USERID_HERE, YOUR_FRIEND_USERID_HERE
+    YOUR_FRIEND_USERID_HERE, YOUR_USERID_HERE
 }
 LOCKDOWN_MASTER = YOUR_USERID_HERE
 
